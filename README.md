@@ -10,8 +10,6 @@ Features:
 * Supports RTOS (Real time operating system)
 * Can be programmed via. PC / external debugger
 * Dedicated software controlled radio controller (Arm® Cortex®-M0) { Provides capability to RF transceiver to support multiple physical layers and RF standards }
-* Consists of on-board Digital microphone to capture audio
-* Provision to connect external speaker via Audio amplifier
 * Supported Wireless comm. protocols: Thread, ZigBee, Bluetooth 5.2, LoWPAN, Wi-SUN, Wireless M-Bus.
 * Integrated +20 dBm Power Amplifier & Radio Sensitivity upto -121 dBm
 * Built with IPC (Integrated Passive components) to reduce footprint of RF Matching circuit
